@@ -1,0 +1,33 @@
+{
+   
+        "TimeLapse" : {
+        "project" : "Stg-Porbandar Solar",
+        "fromdate" : "1-Aug-2022",
+        "todate" : "1-Aug-2022",
+        "selectalarmbutton" : "Custom",
+        "dayalarambutton" : "Day",
+        "weekalarambutton" : "Week",
+        "monthalarambutton" : "Month",
+        "yearalarambutton" : "Year",
+        "navigatetomenutree" : "Inverter:1A",
+        "selectgranularitybutton1" : "1s",
+        "selectgranularitybutton2" : "5s",
+        "selectgranularitybutton3" : "10s",
+        "selectgranularitybutton4" : "1",
+        "selectgranularitybutton5" : "5",
+        "selectgranularitybutton6" : "10",
+        "selectgranularitybutton7" : "15",
+        "selectgranularitybutton8" : "60",
+     
+        "draganddropelements-1" : "AC Frequency",
+        "draganddropelements-2" : "Reactive power",
+        
+        "displaychart" : "View data table"
+
+    }
+
+    
+
+
+  
+}

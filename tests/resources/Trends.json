@@ -1,0 +1,28 @@
+{
+    "project" : "Stg-Porbandar Solar",
+        "fromdate" : "7-Sep-2022",
+        "todate" : "7-Sep-2022",
+        "selectalarmbutton" : "Custom",
+        "navigatetomenutree" : "Inverter:1A",
+        "draganddropelements-1" : "AC Frequency",
+        "draganddropelements-2" : "PV Voltage",
+        "draganddropelements-3" : "AC Voltage V23",
+        "draganddropelements-4" : "AC Voltage V31",
+        "draganddropelements-5" : "Active Power",
+        "draganddropelements-6" : "Apparent Power",
+        "displaychart" : "View data table",
+       
+        "dayalarambutton" : "Day",
+        "weekalarambutton" : "Week",
+        "monthalarambutton" : "Month",
+        "yearalarambutton" : "Year",
+        "selectgranularitybutton1" : "1s",
+        "selectgranularitybutton2" : "5s",
+        "selectgranularitybutton3" : "10s",
+        "selectgranularitybutton4" : "1",
+        "selectgranularitybutton5" : "5",
+        "selectgranularitybutton6" : "10",
+        "selectgranularitybutton7" : "15",
+        "selectgranularitybutton8" : "60"
+     
+}
